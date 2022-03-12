@@ -1,0 +1,11 @@
+flowchart-discussion/
+logs/
+node_modules/
+kraken copy 22feb.js
+/data/.DS_Store
+/data/points-metorik-swell/.DS_Store
+.vscode/launch.json
+.DS_Store
+images/*.*
+images/.DS_Store
+.DS_Store
